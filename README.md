@@ -5,3 +5,4 @@ I studied the correlation between horizontal and vertical wind in the Tropospher
 
 
 ![Correlation](https://github.com/FarnoushAttarzadeh/Master-sProject.py/blob/a7f1ab7046435940cc94e7a28c78ad7fab9f8587/C201011Negrocreek.png)
+![Slope](https://github.com/FarnoushAttarzadeh/Master-sProject.py/blob/12e87ab56ab8475d3b1ac8ccb5b2c8bcd420f0b3/S201011Negrocreek.png)
