@@ -5,4 +5,7 @@ I studied the correlation between horizontal and vertical wind in the Tropospher
 
 
 ![Correlation](https://github.com/FarnoushAttarzadeh/Master-sProject.py/blob/a7f1ab7046435940cc94e7a28c78ad7fab9f8587/C201011Negrocreek.png)
-![Slope](https://github.com/FarnoushAttarzadeh/Master-sProject.py/blob/12e87ab56ab8475d3b1ac8ccb5b2c8bcd420f0b3/S201011Negrocreek.png)
+
+![MSTD](https://github.com/FarnoushAttarzadeh/Master-sProject.py/blob/aaeb7207965a14560f6b59f6cfb5164673a5856b/Moving%20Average%20Height%20Vs.%20Moving%20STD%20%20both.png)
+![SPhi](https://github.com/FarnoushAttarzadeh/Master-sProject.py/blob/aaeb7207965a14560f6b59f6cfb5164673a5856b/Run-Phi-2010-Seas-Wal.png)
+![WindVH](https://github.com/FarnoushAttarzadeh/Master-sProject.py/blob/aaeb7207965a14560f6b59f6cfb5164673a5856b/Vertical%20Wind%20Vs.%20Horrizontal%20Wind.png)
